@@ -17,6 +17,7 @@ class UserModel(ModelInterface):
     # @classmethod
     # def fromDatabase(user,data):
        
+       
     #     return user(
     #         id = data.get('id'),
     #         name = data.get('name'),
